@@ -1,0 +1,14 @@
+﻿  dllmain.cpp
+C:\Users\16576\Desktop\LSPDll\dllmain.cpp(53,4): warning C4996: 'unlink': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _unlink. See online help for details.
+C:\Users\16576\Desktop\LSPDll\dllmain.cpp(127,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\16576\Desktop\LSPDll\dllmain.cpp(149,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\16576\Desktop\LSPDll\dllmain.cpp(154,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\16576\Desktop\LSPDll\dllmain.cpp(165,41): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\16576\Desktop\LSPDll\dllmain.cpp(170,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\16576\Desktop\LSPDll\dllmain.cpp(175,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\16576\Desktop\LSPDll\dllmain.cpp(213,21): warning C4018: “<”: 有符号/无符号不匹配
+  LSPDll.cpp
+  stdafx.cpp
+  正在生成代码...
+    正在创建库 C:\Users\16576\Desktop\LSPDll\Debug\LSPDll.lib 和对象 C:\Users\16576\Desktop\LSPDll\Debug\LSPDll.exp
+  LSPDll.vcxproj -> C:\Users\16576\Desktop\LSPDll\Debug\LSPDll.dll

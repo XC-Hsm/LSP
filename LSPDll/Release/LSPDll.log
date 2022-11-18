@@ -1,0 +1,23 @@
+﻿  dllmain.cpp
+D:\学习\C C++\LSPDll\dllmain.cpp(17,13): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\学习\C C++\LSPDll\dllmain.cpp(18,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\学习\C C++\LSPDll\dllmain.cpp(28,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\学习\C C++\LSPDll\dllmain.cpp(53,4): warning C4996: 'unlink': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _unlink. See online help for details.
+D:\学习\C C++\LSPDll\dllmain.cpp(58,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\学习\C C++\LSPDll\dllmain.cpp(127,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\C C++\LSPDll\dllmain.cpp(129,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\学习\C C++\LSPDll\dllmain.cpp(125,6): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\学习\C C++\LSPDll\dllmain.cpp(149,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\C C++\LSPDll\dllmain.cpp(154,25): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\C C++\LSPDll\dllmain.cpp(165,41): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\C C++\LSPDll\dllmain.cpp(170,26): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\C C++\LSPDll\dllmain.cpp(175,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\C C++\LSPDll\dllmain.cpp(214,21): warning C4018: “<”: 有符号/无符号不匹配
+  LSPDll.cpp
+  stdafx.cpp
+    正在创建库 D:\学习\C C++\LSPDll\Release\LSPDll.lib 和对象 D:\学习\C C++\LSPDll\Release\LSPDll.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 84 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  LSPDll.vcxproj -> D:\学习\C C++\LSPDll\Release\LSPDll.dll

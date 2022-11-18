@@ -1,0 +1,4 @@
+C:\Users\16576\Desktop\安装LSP服务提供程序\LSPDll\Debug\LSPDll.dll
+C:\Users\16576\Desktop\安装LSP服务提供程序\LSPDll\Debug\LSPDll.pdb
+C:\Users\16576\Desktop\LSPDll\Debug\LSPDll.dll
+C:\Users\16576\Desktop\LSPDll\Debug\LSPDll.pdb

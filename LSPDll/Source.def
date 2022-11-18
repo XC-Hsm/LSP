@@ -1,0 +1,4 @@
+LIBRARY     LSPDll
+
+EXPORTS
+WSPStartup      @2
